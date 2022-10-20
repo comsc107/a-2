@@ -1,13 +1,13 @@
-{
-	"name": "a-2",
+  {
+	"name": "บาคาร่า สล็อต บนโทรศัพท์มือถือ",
 	"theme": "syntax",
-	"version": "1.0.0",
+	"version": "10.0.0",
 	"description": "บาคาร่า สล็อต บนโทรศัพท์มือถือ",
-	"keywords": [
-	  "สล็อต บนโทรศัพท์มือถือ",
-	  "บาคาร่า"
-	],
 	"repository": "https://github.com/comsc107/a-2",
+	"keywords": [
+	  "บาคาร่า",
+	  "สร้างเวบเทาๆ"
+	],
 	"license": "MIT",
 	"engines": {
 	  "atom": ">=1.0.0 <2.0.0"
